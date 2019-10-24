@@ -3,7 +3,7 @@
   vars:
     hostname: "vcenter.ansible.local"
     esxihostname: "esxi.ansible.local"
-    username: "userx@vsphere.local"
+    username: "user1@vsphere.local"
     password: "Password1!"
     nfs_user: "user1"
     portgroup_name: "vlan101"
