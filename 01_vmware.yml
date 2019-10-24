@@ -94,7 +94,7 @@
   vars:
     ansible_python_interpreter: /usr/bin/python3
     websiteheader: "Ansible Playbook in vmware"
-    websiteauthor: "Ansible trainee"
+    websiteauthor: "Morten Elbek"
   tasks:
   - name: Install Apache
     dnf:
