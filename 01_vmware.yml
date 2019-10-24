@@ -1,4 +1,4 @@
---
+---
 - hosts: localhost
   vars:
     hostname: "vcenter.ansible.local"
